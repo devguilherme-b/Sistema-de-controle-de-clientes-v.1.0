@@ -69,8 +69,8 @@ Se gostou do projeto, quer fazer melhorias nele ou, até mesmo, quer conversar s
 em receber sua mensagem. <br><br>
 Mais informações no Índice CONTATO, logo a baixo. 🥰
 
-<a name="Contato"></a>
-## Contato
+<a name="Contatos"></a>
+## Contatos
 
 Gmail : guilherme277748@gmail.com <br>
 Instagram: @dev.guilhermengk <br>
