@@ -65,7 +65,7 @@ eu modifiquei algumas perguntas feitas pelo Sistema.
 <a name="Contribuição"></a>
 ## Contribuição
 O crescimento pessoal e profissional só é obtido com ajuda de outras pessoas. <br><br>
-Se gostou do projeto, quer fazer melhorias nele ou, até mesmo, quer conversar sobre programação para obter ajuda ou me ofecer conselhos,opiniões construtivas, irei ficar muito feliz 
+Se gostou do projeto, quer fazer melhorias nele ou, até mesmo, quer conversar sobre programação para obter ajuda ou me ofecer conselhos, opiniões construtivas, irei ficar muito feliz 
 em receber sua mensagem. <br><br>
 Mais informações no Índice CONTATO, logo a baixo. 🥰
 
@@ -73,5 +73,5 @@ Mais informações no Índice CONTATO, logo a baixo. 🥰
 ## Contato
 
 Gmail : guilherme277748@gmail.com <br>
-Instagram: @dev.guilhermengk
+Instagram: @dev.guilhermengk <br>
 GitHub: @guilhermengk
